@@ -1,4 +1,4 @@
-<h1> 임의연(Lim Euiyeon) 👋 </h1>
+<h1> 임의연(Euiyeon Lim) 👋 </h1>
 <p>Front-end Developer</p>
 
 <!--
