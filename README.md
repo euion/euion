@@ -1,5 +1,5 @@
 <h1> 임의연(Euiyeon Lim) 👋 </h1>
-<p>Front-end Developer</p>
+<p>Front-End Developer</p>
 
 <!--
 **euion/euion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
